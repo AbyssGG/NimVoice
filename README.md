@@ -136,6 +136,7 @@ https://github.com/AbyssGG/Resonance/tree/main
 
 ## Related Files
 
+- [NOTICE.md](./NOTICE.md)
 - [TROUBLESHOOTING.md](./TROUBLESHOOTING.md)
 - [MODEL_LICENSES.md](./MODEL_LICENSES.md)
 - [DEVLOG.md](./DEVLOG.md)
