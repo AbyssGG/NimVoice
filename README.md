@@ -128,6 +128,12 @@ This repository contains the application layer:
 
 The lower-level OpenVINO wrapper layer is being separated as the standalone `Resonance` library.
 
+## Attribution
+
+The low-level Nim OpenVINO C API wrapper and binding work used by this project is attributed to `Resonance`:
+
+https://github.com/AbyssGG/Resonance/tree/main
+
 ## Related Files
 
 - [TROUBLESHOOTING.md](./TROUBLESHOOTING.md)
