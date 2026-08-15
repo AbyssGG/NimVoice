@@ -134,6 +134,16 @@ The low-level Nim OpenVINO C API wrapper and binding work used by this project i
 
 https://github.com/AbyssGG/Resonance/tree/main
 
+## AI-Assisted Development
+
+This project was developed with the assistance of Google Gemini 3.1 Pro.
+
+AI was used as a development assistant for tasks such as code generation, debugging, documentation, API exploration, and development workflow support.
+
+The project architecture, technical direction, integration decisions, testing, hardware validation, and final code review were performed by the project author.
+
+AI assistance does not change the project's core technical implementation or its open-source licensing.
+
 ## Related Files
 
 - [NOTICE.md](./NOTICE.md)
