@@ -128,6 +128,12 @@ NimVoice 使用真实的 OpenVINO `PERF_COUNT` profiling，而不是占位统计
 
 更底层的 OpenVINO 封装层正在拆分为独立的 `Resonance` 库。
 
+## 署名
+
+本项目使用到的底层 Nim OpenVINO C API 封装与绑定工作，必须署名到 `Resonance`：
+
+https://github.com/AbyssGG/Resonance/tree/main
+
 ## 相关文件
 
 - [README.md](./README.md)
